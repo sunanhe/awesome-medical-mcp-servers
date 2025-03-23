@@ -25,7 +25,8 @@ A collection of Medical MCP servers.
 - [Kartha-AI/agentcare-mcp](https://github.com/Kartha-AI/agentcare-mcp) - A Model Context Protocol (MCP) server that provides healthcare tools and prompts for interacting with FHIR data and medical resources on EMRs like Cerner and Epic using Claude Desktop and Goose Desktop.
 - [ChristianHinge/dicom-mcp](https://github.com/ChristianHinge/dicom-mcp) - A Model Context Protocol server for DICOM (Digital Imaging and Communications in Medicine) interactions.
 - [acashmoney/bio-mcp](https://github.com/acashmoney/bio-mcp) - A Model Context Protocol (MCP) server designed to enhance large language models with protein structure analysis capabilities.
-
+- [chris-lovejoy/medical-mcp](https://github.com/chris-lovejoy/medical-mcp) - A connector to allow Claude Desktop (or any MCP client) to access medical guidance from the National Institute for Health and Care Excellence (NICE).
+- [johnyquest7/Medical_calculator_MCP](https://github.com/johnyquest7/Medical_calculator_MCP) - An MCP server for medical calculations.
 
 
 ## Acknowledgements
