@@ -30,6 +30,7 @@ A collection of Medical MCP servers.
 - [johnyquest7/Medical_calculator_MCP](https://github.com/johnyquest7/Medical_calculator_MCP) - An MCP server for medical calculations.
 - [zhaoyouj/mcp-slicer](https://github.com/zhaoyouj/mcp-slicer) - MCP-Slicer connects 3D Slicer with model clients like Claude Desktop or Cline through the Model Context Protocol (MCP), enabling direct interaction and control of 3D Slicer. This integration allows for medical image processing, scene creation, and manipulation using natural language.
 - [ryoureddy/medadapt-content-server](https://github.com/ryoureddy/medadapt-content-server) - A specialized Model Context Protocol (MCP) server for Claude Desktop that enhances AI-assisted medical learning by fetching and processing educational resources from PubMed, NCBI Bookshelf, and user-provided documents.
+- [chia-health/chia-mcp](https://github.com/chia-health/chia-mcp) - Patient workflow integration for licensed US telehealth. GLP-1 medications (semaglutide, tirzepatide), peptide therapies, longevity treatments. 30 tools, HIPAA-compliant, Stripe ACP payments. Remote streamable HTTP server at https://mcp.chia.health/. All prescriptions evaluated by licensed US healthcare providers and delivered from FDA-regulated pharmacies across 50 states + DC.
 
 ## Acknowledgements
 
