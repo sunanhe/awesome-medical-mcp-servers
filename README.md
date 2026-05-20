@@ -31,6 +31,7 @@ A collection of Medical MCP servers.
 - [chris-lovejoy/medical-mcp](https://github.com/chris-lovejoy/medical-mcp) - A connector to allow Claude Desktop (or any MCP client) to access medical guidance from the National Institute for Health and Care Excellence (NICE).
 - [johnyquest7/Medical_calculator_MCP](https://github.com/johnyquest7/Medical_calculator_MCP) - An MCP server for medical calculations.
 - [zhaoyouj/mcp-slicer](https://github.com/zhaoyouj/mcp-slicer) - MCP-Slicer connects 3D Slicer with model clients like Claude Desktop or Cline through the Model Context Protocol (MCP), enabling direct interaction and control of 3D Slicer. This integration allows for medical image processing, scene creation, and manipulation using natural language.
+- [peter-fusek/oncofiles](https://github.com/peter-fusek/oncofiles) - AI-powered medical document management for cancer patients. Connects Google Drive, Gmail, and Calendar to any MCP client.
 - [ryoureddy/medadapt-content-server](https://github.com/ryoureddy/medadapt-content-server) - A specialized Model Context Protocol (MCP) server for Claude Desktop that enhances AI-assisted medical learning by fetching and processing educational resources from PubMed, NCBI Bookshelf, and user-provided documents.
 
 ## Acknowledgements
