@@ -18,6 +18,7 @@ A collection of Medical MCP servers.
 
 ## Servers
 
+- [Dataplex Healthcare Data](https://docs.dataplex-consulting.com/getting-started/mcp-server) - A remote streamable-HTTP MCP server for US government healthcare data: CMS provider, facility, and compliance datasets (including CMS-0057 prior authorization), FDA adverse events, CDC public health statistics, and NPPES NPI provider records — keyless, read-only, with real sample rows.
 - [andybrandt/mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed) - An MCP server that provides access to PubMed articles through the Entrez API.
 - [grll/pubmedmcp](https://github.com/grll/pubmedmcp) - A MCP server that allows to search and fetch articles from PubMed.
 - [rikachu225/mcp-pubmed-server](https://github.com/rikachu225/mcp-pubmed-server) - An MCP server implementation for accessing PubMed data with focus on open access content.
