@@ -18,7 +18,6 @@ A collection of Medical MCP servers.
 
 ## Servers
 
-- [Dataplex Healthcare Data](https://docs.dataplex-consulting.com/snowflake-access/mcp-server) - A remote streamable-HTTP MCP server for US government healthcare data: CMS provider, facility, and compliance datasets (including CMS-0057 prior authorization), FDA adverse events, CDC public health statistics, and NPPES NPI provider records — keyless, read-only, with real sample rows.
 - [andybrandt/mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed) - An MCP server that provides access to PubMed articles through the Entrez API.
 - [grll/pubmedmcp](https://github.com/grll/pubmedmcp) - A MCP server that allows to search and fetch articles from PubMed.
 - [rikachu225/mcp-pubmed-server](https://github.com/rikachu225/mcp-pubmed-server) - An MCP server implementation for accessing PubMed data with focus on open access content.
@@ -34,6 +33,7 @@ A collection of Medical MCP servers.
 - [peter-fusek/oncofiles](https://github.com/peter-fusek/oncofiles) - AI-powered medical document management for cancer patients. Connects Google Drive, Gmail, and Calendar to any MCP client.
 - [ryoureddy/medadapt-content-server](https://github.com/ryoureddy/medadapt-content-server) - A specialized Model Context Protocol (MCP) server for Claude Desktop that enhances AI-assisted medical learning by fetching and processing educational resources from PubMed, NCBI Bookshelf, and user-provided documents.
 - [chia-health/chia-mcp](https://github.com/chia-health/chia-mcp) - The first MCP server that lets AI agents handle the entire prescription journey for their users. From finding the right medication to completing intake, signing consents, paying via Stripe ACP, and tracking delivery. Every intake is reviewed and approved by a US-licensed provider, medications delivered from FDA-regulated pharmacies. 30 tools, GLP-1 weight loss (semaglutide, tirzepatide) and longevity treatments. HIPAA-compliant, all 50 states. Remote streamable HTTP server at https://mcp.chia.health/.
+- [Dataplex Healthcare Data](https://registry.modelcontextprotocol.io/v0/servers/com.dataplex-consulting%2Fhealthcare-data/versions/latest) (closed-source hosted service; link is to its official MCP Registry entry) - A remote streamable-HTTP MCP server for US government healthcare data: CMS provider, facility, and compliance datasets (including CMS-0057 prior-authorization compliance data, not the rule's transaction APIs), FDA adverse events, CDC public health statistics, and NPPES NPI provider records — keyless, read-only, with real sample rows. Docs: https://docs.dataplex-consulting.com/snowflake-access/mcp-server
 - [erinheit451/supplement-advisor-mcp](https://github.com/erinheit451/supplement-advisor-mcp) - An MCP server for evidence-based dietary supplement guidance: cost-per-effective-dose recommendations, form/bioavailability comparisons, medication-nutrient interaction checks, and clinical dosing with PubMed citations.
 
 ## Acknowledgements
