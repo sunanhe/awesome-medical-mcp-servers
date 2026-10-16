@@ -34,6 +34,7 @@ A collection of Medical MCP servers.
 - [ryoureddy/medadapt-content-server](https://github.com/ryoureddy/medadapt-content-server) - A specialized Model Context Protocol (MCP) server for Claude Desktop that enhances AI-assisted medical learning by fetching and processing educational resources from PubMed, NCBI Bookshelf, and user-provided documents.
 - [chia-health/chia-mcp](https://github.com/chia-health/chia-mcp) - The first MCP server that lets AI agents handle the entire prescription journey for their users. From finding the right medication to completing intake, signing consents, paying via Stripe ACP, and tracking delivery. Every intake is reviewed and approved by a US-licensed provider, medications delivered from FDA-regulated pharmacies. 30 tools, GLP-1 weight loss (semaglutide, tirzepatide) and longevity treatments. HIPAA-compliant, all 50 states. Remote streamable HTTP server at https://mcp.chia.health/.
 - [erinheit451/supplement-advisor-mcp](https://github.com/erinheit451/supplement-advisor-mcp) - An MCP server for evidence-based dietary supplement guidance: cost-per-effective-dose recommendations, form/bioavailability comparisons, medication-nutrient interaction checks, and clinical dosing with PubMed citations.
+- [carejobs-now/mcp](https://github.com/yumaheymans/carejobs-mcp) - Remote MCP server (streamable HTTP, no API key, free, read-only) for US healthcare jobs: search 170,000+ open nursing, CNA, physician and allied health jobs read daily from 270 hospitals' career sites, with the pay each employer posts.
 
 ## Acknowledgements
 
