@@ -38,5 +38,6 @@ A collection of Medical MCP servers.
 ## Acknowledgements
 
 - [@punkpeye](https://github.com/punkpeye) for creating the original [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) repository.
+- [DoomPay](https://github.com/doomsday-network/doom-pay) - 2-line Stripe-style non-custodial Web3 checkout widget (`pay.js`), HTTP 402 payment wall, and MCP tool server for verifying Layer-1 `DOOM` and Base Mainnet `wDOOM` payments.
 
 
