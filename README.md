@@ -18,6 +18,7 @@ A collection of Medical MCP servers.
 
 ## Servers
 
+- [andrewfinerx/finerx-mcp](https://github.com/andrewfinerx/finerx-mcp) - An MCP server that gives an AI assistant observed US prescription prices by pharmacy chain with the date each was seen, the free FineRx discount card, and US equivalents of foreign-brand medicines, in 12 languages. The remote endpoint needs no key or account. Independent comparison service, not insurance or medical advice.
 - [andybrandt/mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed) - An MCP server that provides access to PubMed articles through the Entrez API.
 - [grll/pubmedmcp](https://github.com/grll/pubmedmcp) - A MCP server that allows to search and fetch articles from PubMed.
 - [rikachu225/mcp-pubmed-server](https://github.com/rikachu225/mcp-pubmed-server) - An MCP server implementation for accessing PubMed data with focus on open access content.
